@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+L	include/Alberi.h	/^	std::vector<Arco>* L;$/;"	m	struct:Problema
+NR_NODI	include/Alberi.h	4;"	d
+Problema	include/Alberi.h	/^typedef struct Problema {$/;"	s
+Problema	include/Alberi.h	/^}Problema;$/;"	t	typeref:struct:Problema
+Punto	include/Alberi.h	/^typedef struct Punto{$/;"	s
+Punto	include/Alberi.h	/^}Punto;$/;"	t	typeref:struct:Punto
+U	include/Alberi.h	/^	std::vector<Arco> U;$/;"	m	struct:Problema
+esito	include/Alberi.h	/^	bool esito;$/;"	m	struct:Punto
+grafo_originale	include/Alberi.h	/^	std::vector<Arco>* grafo_originale;\/\/non mi serve$/;"	m	struct:Problema
+i	include/Alberi.h	/^	int i,j;$/;"	m	struct:Punto
+indice_nodo_iniziale	include/Alberi.h	/^	int indice_nodo_iniziale;$/;"	m	struct:Problema
+j	include/Alberi.h	/^	int i,j;$/;"	m	struct:Punto
+soluzione	include/Alberi.h	/^	std::vector<Arco>* soluzione;$/;"	m	struct:Problema

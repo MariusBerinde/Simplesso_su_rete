@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DFS	src/Alberi.cpp	/^void DFS(std::vector<Arco>* albero,std::vector<int> *coda,int nodo_attuale){$/;"	f
+add_arco	src/Alberi.cpp	/^void add_arco(std::vector<Arco>* lista, Arco a){$/;"	f
+elimina_arco	src/Alberi.cpp	/^void elimina_arco(std::vector<Arco>* albero,Arco a){$/;"	f
+esiste_arco	src/Alberi.cpp	/^Punto esiste_arco(std::vector<Arco>* albero, Arco a,int max_nodi=NR_NODI){$/;"	f
+getIndex	src/Alberi.cpp	/^int getIndex(std::vector<int> v,int val){$/;"	f
+set_depth_alt	src/Alberi.cpp	/^void set_depth_alt(std::vector<Arco>* albero,int nr_nodi=NR_NODI){$/;"	f
+set_potenziali	src/Alberi.cpp	/^void set_potenziali(std::vector<Arco>* albero,int nodo_partenza=0,int nr_nodi=NR_NODI){$/;"	f
+set_prev	src/Alberi.cpp	/^void set_prev(std::vector<Arco>* albero,int nr_nodi){$/;"	f
+set_tread_index	src/Alberi.cpp	/^void set_tread_index(std::vector<Arco>* albero,int nodo_partenza=0,int nr_nodi=NR_NODI){$/;"	f
+uscente	src/Alberi.cpp	/^Arco uscente(std::vector<Arco>* albero,Arco a,int nr_nodi){$/;"	f

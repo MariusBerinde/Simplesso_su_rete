@@ -1,0 +1,16 @@
+0
+|
+|
+|----2,d=6    nodi_padre_rimanenti=1  , nodi_radice=1
+|	|
+|	|
+|	|-5  nodi_padre_rimanenti=0 , nodi_radice_rimanenti=1
+|
+|---1,d=9    nr_radice=0, nr_padre=0
+	|
+	|
+	|- 4
+	|
+	|
+	|-3
+	

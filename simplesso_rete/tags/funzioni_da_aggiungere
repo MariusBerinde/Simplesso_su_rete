@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Nr_nodi	test/modifiche_simplesso.cpp	7;"	d	file:
+aggiorna_indici	test/modifiche_simplesso.cpp	/^void aggiorna_indici(vector<Arco> grafo[],Arco partenza){$/;"	f
+aggiorna_potenziali_U	test/modifiche_simplesso.cpp	/^void aggiorna_potenziali_U(vector<Arco> &U){$/;"	f
+arco_necessario	test/modifiche_simplesso.cpp	/^Arco arco_necessario(vector<Arco> archi,int nodo_partenza){$/;"	f
+clean	test/modifiche_simplesso.cpp	/^void clean(vector<Arco> a[]){$/;"	f
+crea_grafo	test/modifiche_simplesso.cpp	/^void crea_grafo(vector<Arco> a[],Nodo *nodi[]){$/;"	f
+crea_grafo_iniziale	test/modifiche_simplesso.cpp	/^void crea_grafo_iniziale(vector<Arco> grafo[],vector<Arco> soluzione[],vector<Arco> &U,int nr_nodi,int nodo_partenza){$/;"	f
+crea_problema	test/modifiche_simplesso.cpp	/^Problema crea_problema(vector<Arco> grafo[],vector<Arco> sol[],int nodo_partenza,int nr_nodi){$/;"	f
+elimina_arco_entrante	test/modifiche_simplesso.cpp	/^void elimina_arco_entrante(vector<Arco> &U,Arco a){$/;"	f
+in_queue	test/modifiche_simplesso.cpp	/^bool in_queue(queue<int> q,int e){$/;"	f
+main	test/modifiche_simplesso.cpp	/^int main(int argc, char const *argv[]){$/;"	f
+max_costo_potenziale	test/modifiche_simplesso.cpp	/^Arco max_costo_potenziale(vector<Arco> archi){$/;"	f
+min_costo_potenziale	test/modifiche_simplesso.cpp	/^Arco min_costo_potenziale(vector<Arco> archi){$/;"	f
+primo_arco_eligibile	test/modifiche_simplesso.cpp	/^Arco primo_arco_eligibile(vector<Arco> archi){$/;"	f
+primo_arco_eligibile_v2	test/modifiche_simplesso.cpp	/^Arco primo_arco_eligibile_v2(vector<Arco> archi){$/;"	f
+print_albero	test/modifiche_simplesso.cpp	/^void print_albero(vector<Arco> albero[]){$/;"	f
+problema_ottimale	test/modifiche_simplesso.cpp	/^bool problema_ottimale(vector<Arco> U){$/;"	f
+regola_pivoting	test/modifiche_simplesso.cpp	/^Arco regola_pivoting(vector<Arco> archi){$/;"	f
+restituisci_arco	test/modifiche_simplesso.cpp	/^Arco restituisci_arco(vector<Arco> grafo[],int nodo_o,int nodo_d){$/;"	f
+restituisci_arco_vettore	test/modifiche_simplesso.cpp	/^Arco restituisci_arco_vettore(vector<Arco> grafo,int nodo_o,int nodo_d){$/;"	f
+set_costi_potenziali	test/modifiche_simplesso.cpp	/^void set_costi_potenziali(vector<Arco> &lista){$/;"	f
+set_potenziali_per_test	test/modifiche_simplesso.cpp	/^void set_potenziali_per_test(vector<Arco> &U,bool ammissibile=false){$/;"	f
+simplessoRete	test/modifiche_simplesso.cpp	/^void simplessoRete(Problema p){$/;"	f
+stampa_soluzione	test/modifiche_simplesso.cpp	/^void stampa_soluzione(Problema p){$/;"	f
+test_aggiorna	test/modifiche_simplesso.cpp	/^	void test_aggiorna(Problema p){$/;"	f
+test_aggiorna_indici	test/modifiche_simplesso.cpp	/^void test_aggiorna_indici(){$/;"	f
+test_arco_uscente	test/modifiche_simplesso.cpp	/^void test_arco_uscente(Problema p){$/;"	f
+test_problemaOttimale	test/modifiche_simplesso.cpp	/^void test_problemaOttimale(Problema p){$/;"	f
+usoU	test/modifiche_simplesso.cpp	/^void usoU(vector<Arco> &a){$/;"	f

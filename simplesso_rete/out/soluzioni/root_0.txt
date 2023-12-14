@@ -1,0 +1,4 @@
+Nodo origine:Nodo partenza=0
+(Nodo=1,potenziale=9)-(Nodo=2,potenziale=6)-
+(Nodo=5,potenziale=24)-(Nodo=3,potenziale=8)-
+(Nodo=6,potenziale=23)-(Nodo=4,potenziale=21)-
